@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SadiHocaDers</string>
+    <string name="bilmece_metni">Çarşıdan aldım bir tane eve geldim bin tane?</string>
+    <string name="bilmece_cevabi">Cevabımız : NAR !</string>
+    <string name="saldir">Saldır</string>
+    <string name="yemekye">Yemek Ye</string>
+    <string name="uyu">uyu</string>
+</resources>
